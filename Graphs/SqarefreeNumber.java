@@ -1,0 +1,4 @@
+ class SquarefreeNumber
+ {
+     main
+ }
